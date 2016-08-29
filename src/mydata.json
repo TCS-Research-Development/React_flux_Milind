@@ -1,0 +1,38 @@
+
+[ {
+        "name": "Milind",
+        "age": "22",
+        "gender":"male"
+    },
+    {
+        "name": "Naresh",
+        "age": "23",
+        "gender":"male"
+    },
+    {
+        "name": "Udaiykumar",
+        "age": "28",
+        "gender":"male"
+    },
+    {
+        "name": "Anish",
+        "age": "24",
+        "gender":"male"
+    },
+    {
+        "name": "Bangarubabu",
+        "age": "31",
+        "gender":"male"
+    },
+    {
+        "name": "Manjushree",
+        "age": "24",
+        "gender":"female"
+    },
+     {
+        "name": "Mithra",
+        "age": "21",
+        "gender":"female"
+    }
+
+]   
