@@ -1,0 +1,12 @@
+#no DS_store
+.DS_Store
+
+#no node_modules
+node_modules/
+
+
+#no log files
+*.log
+
+#no bundle
+bundle/
